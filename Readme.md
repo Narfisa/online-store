@@ -1,4 +1,4 @@
-# online store front
+# online store back
 
 ## Project setup
 ```
