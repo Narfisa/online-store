@@ -2,32 +2,9 @@
 
 ## Project setup
 ```
-npm install
+1. download and install open server
+2. add this project to 'open server\domains' (should be like 'C:\OSPanel\domains\localhost')
+3. run oper server
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
-
-### Follow my online store back to see backend for this project
+### Follow my online store front to see frontend for this project
